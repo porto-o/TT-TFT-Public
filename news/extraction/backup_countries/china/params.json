@@ -1,0 +1,51 @@
+{
+  "zones": {
+    "china": [
+      "scmp.com",
+      "chinadaily.com.cn",
+      "globaltimes.cn",
+      "reuters.com/places/china",
+      "bloomberg.com/china",
+      "caixin.com",
+      "cgtn.com",
+      "xinhua.net",
+      "people.cn",
+      "thepaper.cn",
+      "shanghaidaily.com",
+      "chinamoneynetwork.com",
+      "moe.gov.cn",
+      "mof.gov.cn",
+      "pbc.gov.cn",
+      "ndrc.gov.cn"
+    ]
+  },
+  "themes": [
+    "ECON_INFLATION",
+    "ECON_GDP",
+    "ECON_UNEMPLOYMENT",
+    "ECON_TRADE",
+    "ECON_STOCKMARKET",
+    "ECON_MARKETS",
+    "ECON_INTEREST_RATES",
+    "ECON_CENTRAL_BANK",
+    "FUEL_PRICES",
+    "ENERGY",
+    "OIL",
+    "CURRENCY",
+    "DEVALUATION",
+    "GOV_SPENDING",
+    "TAX_POLICY",
+    "MONETARY_POLICY",
+    "FISCAL_POLICY",
+    "PROTEST",
+    "CORRUPTION",
+    "ELECTION",
+    "SUPPLY_CHAIN",
+    "FOOD_SECURITY",
+    "FOOD_SHORTAGE",
+    "HOUSING_MARKET"
+  ],
+  "dates": { "start": "20200101", "end": "20251006" },
+  "sort": "DateDesc",
+  "fmt": "JSON"
+}

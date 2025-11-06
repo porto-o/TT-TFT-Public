@@ -1,0 +1,63 @@
+{
+  "zones": {
+    "ca": [
+      "theglobeandmail.com",
+      "financialpost.com",
+      "business.financialpost.com",
+      "cbc.ca/news/business",
+      "ctvnews.ca/business",
+      "globalnews.ca",
+      "bnnbloomberg.ca",
+      "canadianbusiness.com",
+      "nationalobserver.com",
+      "torontosun.com/category/money",
+      "thestar.com/business",
+      "montrealgazette.com/business",
+      "edmontonjournal.com/business",
+      "vancouversun.com/business",
+      "calgaryherald.com/business",
+      "globalnews.ca/money",
+      "reuters.com/places/canada",
+      "bnn.ca",
+      "economist.com/the-americas",
+      "forbes.com/ca",
+      "investing.com/news/economy",
+      "yahoo.com/finance/canada",
+      "bankofcanada.ca",
+      "statcan.gc.ca",
+      "canada.ca/en/department-finance.html"
+    ]
+  },
+  "themes": [
+    "ECON_INFLATION",
+    "ECON_GDP",
+    "ECON_UNEMPLOYMENT",
+    "ECON_TRADE",
+    "ECON_STOCKMARKET",
+    "ECON_MARKETS",
+    "ECON_INTEREST_RATES",
+    "ECON_CENTRAL_BANK",
+    "FUEL_PRICES",
+    "ENERGY",
+    "OIL",
+    "CURRENCY",
+    "DEVALUATION",
+    "GOV_SPENDING",
+    "TAX_POLICY",
+    "MONETARY_POLICY",
+    "FISCAL_POLICY",
+    "PROTEST",
+    "CORRUPTION",
+    "ELECTION",
+    "SUPPLY_CHAIN",
+    "FOOD_SECURITY",
+    "FOOD_SHORTAGE",
+    "HOUSING_MARKET"
+  ],
+  "dates": {
+    "start": "20200101",
+    "end": "20251006"
+  },
+  "sort": "DateDesc",
+  "fmt": "JSON"
+}

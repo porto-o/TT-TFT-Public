@@ -1,0 +1,70 @@
+{
+  "zones": {
+    "mexico": [
+      "elfinanciero.com.mx",
+      "eleconomista.com.mx",
+      "expansion.mx",
+      "forbes.com.mx",
+      "reforma.com",
+      "eluniversal.com.mx",
+      "milenio.com",
+      "jornada.com.mx",
+      "animalpolitico.com",
+      "aristeguinoticias.com",
+      "excelsior.com.mx",
+      "heraldodemexico.com.mx",
+      "proceso.com.mx",
+      "sinembargo.mx",
+      "unotv.com",
+      "elceo.com",
+      "infobae.com/mexico",
+      "latinus.us",
+      "elpais.com/mexico",
+      "bbc.com/mundo",
+      "dw.com/es",
+      "elpoderdelconsumidor.org",
+      "nortedigital.mx",
+      "vanguardia.com.mx",
+      "debate.com.mx",
+      "elsoldemexico.com.mx",
+      "publimetro.com.mx",
+      "gob.mx",
+      "banxico.org.mx",
+      "inegi.org.mx"
+    ]
+  },
+  "themes": [
+    "ECON_INFLATION",
+    "ECON_GDP",
+    "ECON_UNEMPLOYMENT",
+    "ECON_TRADE",
+    "ECON_STOCKMARKET",
+    "ECON_MARKETS",
+    "ECON_INTEREST_RATES",
+    "ECON_CENTRAL_BANK",
+    "FUEL_PRICES",
+    "ENERGY",
+    "OIL",
+    "CURRENCY",
+    "DEVALUATION",
+    "GOV_SPENDING",
+    "TAX_POLICY",
+    "MONETARY_POLICY",
+    "FISCAL_POLICY",
+    "PROTEST",
+    "CORRUPTION",
+    "ELECTION",
+    "SUPPLY_CHAIN",
+    "FOOD_SECURITY",
+    "FOOD_SHORTAGE",
+    "HOUSING_MARKET"
+  ],
+  "dates": {
+    "start": "20251001",
+    "end": "20251006"
+  },
+  "sort": "DateDesc",
+  "fmt": "JSON"
+}
+
+
